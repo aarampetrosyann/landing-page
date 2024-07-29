@@ -1,10 +1,3 @@
 # landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
-# landing-page
+
+Headstarter AI Personal Portfolio
